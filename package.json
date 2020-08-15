@@ -1,0 +1,22 @@
+{
+  "name": "dicod",
+  "version": "0.1.0",
+  "description": "submite frontEnd dicoding",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/catalogi/dicod.git"
+  },
+  "author": "Nur Ali Majidnode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/catalogi/dicod/issues"
+  },
+  "homepage": "https://github.com/catalogi/dicod#readme",
+  "dependencies": {
+    "app-module-path": "^2.2.0"
+  }
+}
